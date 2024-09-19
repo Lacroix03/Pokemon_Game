@@ -1,0 +1,14 @@
+13
+Charmander 1 100 300
+Bulbasaur 0 100 300
+Squirtle 2 100 300
+Flareon 1 150 300
+Torchic 1 100 300
+Psyduck 2 100 300
+Piplup 2 120 300
+Chikorita 0 110 300
+Rowlet 0 130 300
+Chimchar 1 100 300
+Fennekin 1 110 300
+Wooper 2 100 250
+Smoliv 0 100 250

@@ -1,0 +1,7 @@
+2
+Charmander Charmander 1 145 387 387
+Piplup JJ 2 171 340 340
+
+3 5
+
+3852
